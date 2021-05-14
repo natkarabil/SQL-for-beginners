@@ -3,21 +3,25 @@
 # SQL для начинающих (SQL-101)
 ## Вступление
 
-[Введение](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Введение)
+**Заполните, пожалуйста, анкету перед началом курса👐, для всей команды DataLearn важно понимать 🧑‍🎓какая аудитория👩‍🎓 у данного курса.**
 
-[Для кого этот курс](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Для-кого-этот-курс)
+**Ссылка на анкету,** [**нажмите здесь**](https://docs.google.com/forms/d/e/1FAIpQLSfN4wr9ERsDwfi3_6Tg0FQE0IMk2dKIzZzAWLPABvOyZpszxg/viewform?usp=sf_link)
 
-[Содержание курса](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Содержание-курса)
+[**Введение**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Введение)
 
-[Модуль 01](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+[**Для кого этот курс**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Для-кого-этот-курс)
 
-[Модуль 02](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%202/README.md)  ![in process](https://github.com/Data-Learn/sql-101/blob/main/images/in_progress.png)
+[**Содержание курса**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Содержание-курса)
 
-[Модуль 03](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/README.md)  ![in process](https://github.com/Data-Learn/sql-101/blob/main/images/in_progress.png)
+[**Модуль 01**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[Структура репозитория](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Структура-репозитория)
+[**Модуль 02**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
 
-[Как зарегистрироваться на курс](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Как-зарегистрироваться-на-курс)
+[**Модуль 03**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%201/README.md)  ![completed](https://github.com/Data-Learn/SQL-for-beginners/blob/main/images/completed.png)
+
+[**Структура репозитория**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Структура-репозитория)
+
+[**Как зарегистрироваться на курс**](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Guide.md#Как-зарегистрироваться-на-курс)
 
 
 ## Введение
@@ -102,7 +106,7 @@
 
 🔑[Структура SQL (DDL, DQL, DML, DCL, TCL). Работа с таблицами - создание, наполнение её данными, изменение, удаление](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2024/README.md)
 
-🔑[Типы данных, оператор TOP. Назад в будущее - вспомним всё](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2025/README.me)
+🔑[Типы данных, оператор TOP. Назад в будущее - вспомним всё](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2025/README.md)
 
 🔑[Ограничения SQL, ключи. Практика по созданию таблиц и их изменению. Вспоминаем оконные функции. Функции для работы с датами и строками](https://github.com/Data-Learn/sql-101/blob/main/SQL-101%20Modules/Module%203/Lesson%2026/README.md)
 
